@@ -493,6 +493,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _boardSize: {x: 11, y: 11}
   _board: {fileID: 580685188}
+  _camera: {fileID: 963194227}
+  _contentFactory: {fileID: 11400000, guid: 598fabee937a1364184b55f2f67ef3b2, type: 2}
 --- !u!4 &1877784982
 Transform:
   m_ObjectHideFlags: 0

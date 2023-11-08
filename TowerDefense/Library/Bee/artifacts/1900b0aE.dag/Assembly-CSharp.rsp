@@ -358,6 +358,8 @@
 "Assets/Scripts/Game.cs"
 "Assets/Scripts/GameBoard.cs"
 "Assets/Scripts/GameTile.cs"
+"Assets/Scripts/GameTileContent.cs"
+"Assets/Scripts/GameTileContentFactory.cs"
 -langversion:9.0
 
 /deterministic
